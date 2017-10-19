@@ -7,5 +7,6 @@ setup(
 	author_email="nssvlr@gmail.com",
 	license="MIT",
 	keywords=["timer"],
-	scripts=["timer"]
+	scripts=["timer"],
+	data_files=[("mp3",["beep_beep_beep_alarm.mp3"])]
 )
