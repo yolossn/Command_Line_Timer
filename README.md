@@ -1,7 +1,7 @@
-# timer
-## command line timer using python
-### usage
+# Timer
+## Command line Timer using python
+### Usage
 > timer hours minutes seconds
-### example
+### Example
 > timer 1 30 0
 
