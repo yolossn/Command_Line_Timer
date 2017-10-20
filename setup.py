@@ -8,5 +8,6 @@ setup(
 	license="MIT",
 	keywords=["timer"],
 	scripts=["timer"],
-	data_files=[("mp3",["beep_beep_beep_alarm.mp3"])]
+	data_files=[("mp3",["beep_beep_beep_alarm.mp3"])],
+	zip_safe=False
 )
