@@ -1,0 +1,8 @@
+/usr/local/lib/python3.5/dist-packages/timer-0.0.0-py3.5.egg/EGG-INFO/top_level.txt
+/usr/local/lib/python3.5/dist-packages/timer-0.0.0-py3.5.egg/EGG-INFO/SOURCES.txt
+/usr/local/lib/python3.5/dist-packages/timer-0.0.0-py3.5.egg/EGG-INFO/PKG-INFO
+/usr/local/lib/python3.5/dist-packages/timer-0.0.0-py3.5.egg/EGG-INFO/not-zip-safe
+/usr/local/lib/python3.5/dist-packages/timer-0.0.0-py3.5.egg/EGG-INFO/dependency_links.txt
+/usr/local/lib/python3.5/dist-packages/timer-0.0.0-py3.5.egg/EGG-INFO/scripts/timer
+/usr/local/lib/python3.5/dist-packages/timer-0.0.0-py3.5.egg/mp3/beep_beep_beep_alarm.mp3
+/usr/local/bin/timer
