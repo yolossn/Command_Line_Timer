@@ -5,3 +5,5 @@
 ### Example
 > timer 1 30 0
 
+## Requirements
+ffmpeg
